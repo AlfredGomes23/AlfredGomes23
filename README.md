@@ -2,7 +2,7 @@
 ## Hi there 👋, my name is Alfred Gomes
 ### I am a junior frontend web developer.
 
-<!-- ![I am a junior frontend web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+![I am a junior frontend web developer.](https://raw.githubusercontent.com/AlfredGomes23/AlfredGomes23/main/My%20Profile%20Cover.png)
 
 Passionate to be a Web Developer and always eager to explore and adopt new technologies.
 
