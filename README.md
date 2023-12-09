@@ -39,8 +39,8 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 
 <!-- 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfredGomes23&theme=transparent" alt="alfredgomes23" /></p> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlfredGomes23)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlfredGomes23)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 
