@@ -31,9 +31,10 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 <h3 align="left">Social Links:</h3>
 
 
-[![My Github](https://skillicons.dev/icons?i=github)](https://github.com/AlfredGomes23)
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredgomes23/)
-[![My facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/alfred23.gomes) 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AlfredGomes23)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredgomes23/)
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alfred23.gomes) 
+
 
 
 <!-- 
