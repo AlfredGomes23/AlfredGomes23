@@ -30,7 +30,11 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 
 <h3 align="left">Social Links:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlfredGomes23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfredgomes23/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alfred23.gomes)  
+
+[![My Github](https://skillicons.dev/icons?i=github)](https://github.com/AlfredGomes23)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredgomes23/)
+[![My facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/alfred23.gomes) 
+
 
 <!-- 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfredGomes23&theme=transparent" alt="alfredgomes23" /></p> -->
