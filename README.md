@@ -26,7 +26,7 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,nodejs,mongodb,vue)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,nodejs,mongodb,vite)](https://skillicons.dev)
 
 <h3 align="left">Social Links:</h3>
 
