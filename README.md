@@ -11,7 +11,7 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react)](https://skillicons.dev)
 
 
-- 🌱 I’m currently exploring **React and MongoDB, after HTML, CSS, Tailwind.**
+- 🌱 I’ve learned to use **HTML, CSS, Tailwind, React, Firebase and also ExpressJS, NodeJS, MongoDB**
 - 🌱 I’m currently learning **NextJS, Material UI**
 - 📫 How to reach me: alfredgomes23@gmail.com 
 - ⚡ Fun fact: Love To Explore New Technologies. 
