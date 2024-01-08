@@ -12,7 +12,6 @@ Passionate to be a Web Developer and always eager to explore and adopt new techn
 
 
 - 🌱 I’ve learned to use **HTML, CSS, Tailwind, React, Firebase and also ExpressJS, NodeJS, MongoDB**
-- 🌱 I’m currently learning **NextJS, Material UI**
 - 📫 How to reach me: alfredgomes23@gmail.com 
 - ⚡ Fun fact: Love To Explore New Technologies. 
 
